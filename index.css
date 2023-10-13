@@ -1154,7 +1154,7 @@ ul{
     width:90%;
     display:flex;
     justify-content: space-between;
-    height:80vh;
+    min-height:80vh;
     align-items:center;
     font-family: 'Poppins', sans-serif;
     margin:auto;
